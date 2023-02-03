@@ -1,1 +1,1 @@
-# e-STore
+# e-Store
